@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "MA-US"
 title                    : "XingyaoWU "
 title_separator          : "-"
 name                     : &name "XingyaoWU"
